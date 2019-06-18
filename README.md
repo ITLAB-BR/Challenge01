@@ -43,7 +43,7 @@ Também pedimos a construção de uma página web criada com **ReactJs** ou **An
 
 Boa sorte.
 
-Time It Lab
+Time IT Lab
 
 ---
 Made with ♥ by [ITLAB](http://www.itlab.com.br)
