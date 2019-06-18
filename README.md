@@ -4,7 +4,7 @@ Desafio de desenvolvimento IT Lab.
 ---
 ## Pré-requisito
 
-Conheça o cálculo [Cálculo Eclesiástico](https://www.inf.ufrgs.br/~cabral/Pascoa.html).
+Conheça o cálculo [Cálculo Eclesiástico](http://www.vision.ime.usp.br/~pmiranda/mc102_1s07/lab01/lab.html).
 
 ---
 
