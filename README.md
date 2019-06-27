@@ -1,5 +1,8 @@
 # IT Lab Challenge 01
-Desafio de desenvolvimento IT Lab.
+Desafio de desenvolvimento IT Lab, *Show mne de code*.
+
+Mostre seu conhecimento através de código, através deste teste queremos avaliar seu conhecimento e experiência em desenvolvimento e modelagem de aplicações.
+
 
 ---
 ## Pré-requisito
@@ -20,6 +23,7 @@ Onde você precisará criar uma api para expor esse algoritmo, recebendo uma dat
 Também pedimos a construção de uma página web criada com **ReactJs** ou **Angular** ou **Vue.js**, mas escolha o de sua preferência.
 
 **Serão avalidos os tópicos:**
+Os tópicos abaixo são importantes para nós:
 - Organização do código.
 - Best practices empregadas na construção da aplicação.
 - Qualidade das funcionalidades desenvolvidas.
@@ -39,6 +43,8 @@ Também pedimos a construção de uma página web criada com **ReactJs** ou **An
 - No caso do banco de dados, junto ao código fonte o candidato deverá fornecer os scripts de criação dos objetos do banco de dados.
 - Os arquivos devem ser subidos para o github sem serem compactados (em arquivo .zip por exemplo).
 
+**Sinta-se à vontade**
+Sinta-se à vontade para estender os requisitos e mostrar suas habilitades com outros tópicos não solicitados neste teste!
 
 
 Boa sorte.
