@@ -23,6 +23,7 @@ Onde você precisará criar uma api para expor esse algoritmo, recebendo uma dat
 Também pedimos a construção de uma página web criada com **ReactJs** ou **Angular** ou **Vue.js**, mas escolha o de sua preferência.
 
 **Serão avalidos os tópicos:**
+
 Os tópicos abaixo são importantes para nós:
 - Organização do código.
 - Best practices empregadas na construção da aplicação.
