@@ -25,9 +25,11 @@ Também pedimos a construção de uma página web criada com **ReactJs** ou **An
 **Serão avalidos os tópicos:**
 
 Os tópicos abaixo são importantes para nós:
-- Organização do código.
+- Organização e clareza do código.
+- Arquitetura e design da aplicação.
 - Best practices empregadas na construção da aplicação.
 - Qualidade das funcionalidades desenvolvidas.
+- Interface bem construída, com boa usabilidade.
 - Validações de campos.
 - Alerta a usuários.
 - Quantidade de bugs.
