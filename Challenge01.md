@@ -1,7 +1,7 @@
 # IT Lab Challenge 01
-Desafio de desenvolvimento IT Lab, *Show mne de code*.
+Desafio de desenvolvimento IT Lab, *Show me the code*.
 
-Mostre seu conhecimento através de código, através deste teste queremos avaliar seu conhecimento e experiência em desenvolvimento e modelagem de aplicações.
+Mostre seus conhecimentos através de código, com este teste queremos avaliar seu conhecimento e experiência em desenvolvimento e modelagem de aplicações.
 
 
 ---
